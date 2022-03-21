@@ -1,16 +1,5 @@
 ### Hi there 👋
 # I am Shreyansh Rawal
-
-<div>
- <a href="https://app.daily.dev/Shrey2199" target="_blank">
-  <img 
-       align="right"
-       src="https://api.daily.dev/devcards/4777070e374741b287d55fd3ba8fe1c9.png?r=7tk" 
-       width="256" 
-       alt="Shreyansh Rawal's Dev Card"
-  />
- </a>
-</div>
  
 ## I am a Student and an aspiring Developer
 

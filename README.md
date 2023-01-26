@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [LibDrive Bot](https://github.com/shrey2199/LD_Meta_bot)
 - 🌱 I’m currently learning Python, JavaScript
 - 👯 I’m looking to collaborate on any Telegram Bot Development Project
-- 📫 How to reach me: You Can't LMAO. Wait, Maybe You Can - [Contact Me on TG](https://t.me/s_rawal)
+- 📫 How to reach me: You Can't LMAO. Wait, Maybe You Can - [Contact Me on TG](https://t.me/shrey_contact_bot)
 - ⚡ Fun fact: I was a Noob before May 2021 🤣
 
 ![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrey2199)\

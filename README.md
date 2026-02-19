@@ -16,8 +16,8 @@
 ---
 
 ## 🚀 Tech Stack
-- **Languages:** Python, Java, C++  
-- **Backend:** Node.js, Express, Spring Boot  
+- **Languages:** Python, Javascript, C++  
+- **Backend:** Node.js, Express, Flask 
 - **Cloud:** AWS, Azure, GCP  
 - **DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions  
 

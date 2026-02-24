@@ -26,7 +26,7 @@
 <div align="center">
 
 | **Category** | **Technologies** |
-| :---: | :--- |
+| :---: | :---: |
 | <sub><img src="https://img.shields.io/badge/Languages-black?style=for-the-badge&logo=codeforces&logoColor=white" /></sub> | <sub>![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</sub> <sub>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</sub> <sub>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</sub> |
 | <sub><img src="https://img.shields.io/badge/Backend-black?style=for-the-badge&logo=serverfault&logoColor=white" /></sub> | <sub>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)</sub> <sub>![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)</sub> <sub>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)</sub> |
 | <sub><img src="https://img.shields.io/badge/Cloud-black?style=for-the-badge&logo=icloud&logoColor=white" /></sub> | <sub>![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=icloud&logoColor=white)</sub> <sub>![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)</sub> <sub>![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=acode&logoColor=white)</sub> |
